@@ -24,19 +24,19 @@ I specialize in **Web Design, UI/UX, and interactive web development**.
 
 ### 2️⃣ CatSmart Feeder
 ![CatSmart Feeder Preview](https://via.placeholder.com/600x300.png?text=CatSmart+Feeder)
-* **GitHub Code:** [Link](https://github.com/hiba24-ian/CatSmart-Feeder-Pro)  
+* **GitHub Code:** https://hiba24-ian.github.io/CatSmart-Feeder-Pro/ 
 * **Live Demo:** [Link](https://hiba24-ian.github.io/CatSmart-Feeder-Pro/)  
 * **What I Learned:** Interactive product page, Responsive design, Frontend features
 
 ### 3️⃣ CyberPro Tech Solutions
 ![CyberPro Preview](https://via.placeholder.com/600x300.png?text=CyberPro+Tech)
-* **GitHub Code:** [Link](https://github.com/hiba24-ian/CyberPro---Tech-Solutions)  
+* **GitHub Code:** https://hiba24-ian.github.io/CyberPro---Tech-Solutions/ 
 * **Live Demo:** [Link](https://hiba24-ian.github.io/CyberPro---Tech-Solutions/)  
 * **What I Learned:** Corporate website layout, Tailwind CSS, Multi-section navigation
 
 ### 4️⃣ Dashboard App
 ![Dashboard Preview](https://via.placeholder.com/600x300.png?text=Dashboard)
-* **GitHub Code:** [Link](https://github.com/hiba24-ian/dashboard)  
+* **GitHub Code:** https://hiba24-ian.github.io/dashboard/
 * **Live Demo:** [Link](https://hiba24-ian.github.io/dashboard/)  
 * **What I Learned:** Data visualization, Interactive charts, Dashboard design
 
