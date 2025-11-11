@@ -1,54 +1,52 @@
-# H-Designs
-<h1 align="center">👋 Welcome to H-Designs on GitHub</h1>
+# H‑Designs
 
-<p align="center">
-✨ A creative Frontend Developer & Designer building modern, responsive websites with style and precision.
-</p>
-
----
-
-## 💡 About Me
-
-Hi! I'm **H-Designs**, passionate about crafting sleek websites with beautiful UI and smooth UX.  
-I specialize in both **design** and **frontend development** — from concept to deployment.
+👋 Welcome!  
+I’m **Hiba Almamoori**, a creative Frontend Developer & Designer based in Ireland.  
+I specialize in **Web Design, UI/UX, and interactive web development**.
 
 ---
 
-## 🚀 Tech Stack & Tools
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+## 🔧 Tech Stack & Tools
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Styling:** Tailwind CSS, Bootstrap  
+- **Tools:** VS Code, Figma, Git & GitHub  
+- **Other:** Responsive Design, GitHub Pages Deployment
 
 ---
 
-## ✨ Featured Projects
+## 📂 Featured Projects
 
-### 🎨 Creative Agency Website
-> A full multi-section responsive site with dark mode, image-based backgrounds, smooth animations, and bilingual support (AR/EN).
+### 1️⃣ Active Directory Simulation
+![AD Simulation Preview](https://via.placeholder.com/600x300.png?text=AD+Simulation)
+* **GitHub Code:** [Link](https://github.com/hiba24-ian/active-directory-simulation-project)  
+* **Live Demo:** [Link](https://hiba24-ian.github.io/active-directory-simulation-project/)  
+* **What I Learned:** Active Directory management, PowerShell scripting, User & Group administration
 
-- 🧩 Tech used: HTML, Tailwind CSS, JavaScript
-- 📦 [GitHub Code](https://github.com/username/ian_design_agency3)
-- 🌐 [Live Demo](https://your-live-link.com)
+### 2️⃣ CatSmart Feeder
+![CatSmart Feeder Preview](https://via.placeholder.com/600x300.png?text=CatSmart+Feeder)
+* **GitHub Code:** [Link](https://github.com/hiba24-ian/CatSmart-Feeder-Pro)  
+* **Live Demo:** [Link](https://hiba24-ian.github.io/CatSmart-Feeder-Pro/)  
+* **What I Learned:** Interactive product page, Responsive design, Frontend features
 
-![Preview](https://your-image-link.com/project-preview.jpg)
+### 3️⃣ CyberPro Tech Solutions
+![CyberPro Preview](https://via.placeholder.com/600x300.png?text=CyberPro+Tech)
+* **GitHub Code:** [Link](https://github.com/hiba24-ian/CyberPro---Tech-Solutions)  
+* **Live Demo:** [Link](https://hiba24-ian.github.io/CyberPro---Tech-Solutions/)  
+* **What I Learned:** Corporate website layout, Tailwind CSS, Multi-section navigation
+
+### 4️⃣ Dashboard App
+![Dashboard Preview](https://via.placeholder.com/600x300.png?text=Dashboard)
+* **GitHub Code:** [Link](https://github.com/hiba24-ian/dashboard)  
+* **Live Demo:** [Link](https://hiba24-ian.github.io/dashboard/)  
+* **What I Learned:** Data visualization, Interactive charts, Dashboard design
 
 ---
 
 ## 📫 Contact Me
-
-Let's collaborate or discuss ideas!
-
-- 💌 Email: hdesigns@example.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [www.h-designs.com](https://www.h-designs.com)
+- **Email:** hiba.alimamoori@example.com  
+- **LinkedIn:** [Link](https://www.linkedin.com/in/hiba-alimamoori)  
+- **Portfolio Website:** [Link](https://ucdhiba.github.io/hwebdesign/)
 
 ---
 
-<p align="center">
-🖤 Thank you for visiting! Keep scrolling, keep creating!
-</p>
+> ⚡ Always learning, always creating!
