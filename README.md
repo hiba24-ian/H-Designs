@@ -18,7 +18,7 @@ I specialize in **Web Design, UI/UX, and interactive web development**.
 
 ### 1️⃣ Active Directory Simulation
 ![AD Simulation Preview](https://via.placeholder.com/600x300.png?text=AD+Simulation)
-* **GitHub Code:** [Link](https://github.com/hiba24-ian/active-directory-simulation-project)  
+* **GitHub Code:** https://hiba24-ian.github.io/active_directory_simulation_project/ 
 * **Live Demo:** [Link](https://hiba24-ian.github.io/active-directory-simulation-project/)  
 * **What I Learned:** Active Directory management, PowerShell scripting, User & Group administration
 
